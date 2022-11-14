@@ -23,8 +23,8 @@
     <maven.compiler.target>1.8</maven.compiler.target>
     <maven.compiler.source>1.8</maven.compiler.source>
     <!-- Red Hat Business Automation -->
-    <ba-platform.version>7.11.0.redhat-00005</ba-platform.version>
-    <kie.version>7.52.0.Final-redhat-00007</kie.version>
+    <ba-platform.version>7.11.0</ba-platform.version>
+    <kie.version>7.52.0.Final</kie.version>
     <!-- <kie.version>7.54.0.Final</kie.version> -->
 
     <!-- spring.version>2.2.10.RELEASE</spring.version -->
